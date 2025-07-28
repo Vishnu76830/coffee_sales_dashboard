@@ -3,7 +3,7 @@ This Power BI dashboard presents an in-depth analysis of coffee sales.
 
 # ☕ Coffee Sales Dashboard – FY 2024
 
-📅 **Project Duration:** January 2024 – December 2024  
+📅 **Project Duration:** 5 April 2025 –  7 April 2025
 👤 **Created by:** Vishnu Sharma  
 📊 **Tool Used:** Microsoft Power BI  
 📂 **File:** `coffee_dashboard.pbix`  
